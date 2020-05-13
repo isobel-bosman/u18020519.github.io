@@ -47,7 +47,7 @@
         </div>
         <div class='interests'>
             <h2>Other Interests: </h2>
-            <p>When I'm not busy coding I enjoy playing video games, sketching, gardening and the occasional jogging.       
+            <p>When I'm not busy coding I enjoy playing video games, reading, sketching, gardening and the occasional jogging.       
         </div>
         <div class='contact'>
             <h2>Contact Information:</h2>
